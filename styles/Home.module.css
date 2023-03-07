@@ -5,3 +5,10 @@
   margin-top: 30%;
   
 }
+
+.serviceContainer {
+  display: flex;
+  justify-content: center;
+  align-items: bottom;
+  
+}
